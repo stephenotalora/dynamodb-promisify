@@ -1,2 +1,2 @@
 # dynamodb-promisify
-A Promisified dynamodb client for AWS-SDK DynamoDB
+A functional Promisified dynamodb client for AWS-SDK DynamoDB
