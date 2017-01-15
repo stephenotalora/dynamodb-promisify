@@ -1,0 +1,19 @@
+{
+  "name": "dynamodb-promisify",
+  "version": "0.0.1",
+  "description": "A functional promisified dynamodb client for AWS-SDK DynamoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node spec/"
+  },
+  "repository": "git@github.com:stephenotalora/dynamodb-promisify.git",
+  "author": "Jonathan Otalora <j.otalora@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.21",
+    "bluebird": "^3.4.7"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
